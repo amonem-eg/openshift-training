@@ -20,7 +20,7 @@ oc new-app --name friends php:7.2~https://github.com/swapnil-linux/openshift-tra
 oc expose svc friends
 
 ```
-### wait for pods to up and hit the url of your route
+### wait for pods to come up and hit the url of your route
 ```
 oc get pods
 oc get route
