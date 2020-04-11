@@ -10,6 +10,7 @@ insert into MyGuests (firstname,lastname) VALUES ("Monica","Geller");
 insert into MyGuests (firstname,lastname) VALUES ("Dr. Ross","Geller");
 insert into MyGuests (firstname,lastname) VALUES ("Joey","Tribbiani Jr.");
 insert into MyGuests (firstname,lastname) VALUES ("Phoebe","Buffay");
+insert into MyGuests (firstname,lastname) VALUES ("Chandler","Bing"); 
 ```
 ### To deploy it on openshift use the below commands
 ```
