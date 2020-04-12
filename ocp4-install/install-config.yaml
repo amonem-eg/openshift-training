@@ -28,4 +28,5 @@ platform:
     region: ap-southeast-1
 publish: External
 pullSecret: <pull_secret>
-sshKey: <~/.ssh/id_rsa.pub>
+sshKey: |
+<~/.ssh/id_rsa.pub>
